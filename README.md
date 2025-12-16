@@ -1,5 +1,5 @@
 SpectDuino is an open-source and low cost Spectrophotometric system. 
-This repository contains all files required to build and operate the device, including hardware designs, Arduino code, and supporting documentation. An Excel file is also provided to calculate absorbance uncertainty and 95% confidence bands from measurement data.
+This repository contains all files required to build and operate the device, including hardware designs, Arduino code, and supporting documentation. An Excel file is also provided to calculate absorbance uncertainty and 95% confidence bands from data.
 
 /*
 SpectDuino Arduino Code
